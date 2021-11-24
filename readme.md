@@ -1,4 +1,4 @@
-## 4134901 : Special Problem in Information Technologyaaa
+## 4134901 : Special Problem in Information Technology
 _รายวิชาหัวข้อพิเศษด้านเทคโนโลยี_
 _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
