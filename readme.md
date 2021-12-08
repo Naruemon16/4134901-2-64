@@ -19,7 +19,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >npm install
 
 ...
- const person ={firstName:Noey,lastName:Kaew,age:20}
+ const person ={firstName:Noey,lastName:Kaew,age:22}
  ...
 
  **LAB2**
