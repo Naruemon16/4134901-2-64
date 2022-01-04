@@ -2,7 +2,6 @@ import React from "react";
 
 //stateful
 
-
 class Wheel extends React.Component{
       constructor(){
           super();
